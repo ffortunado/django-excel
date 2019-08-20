@@ -1,0 +1,106 @@
+It refers to the section itself, see :ref:`my-reference-label`.
+ *** 2017-11-01
+modaprestige.ru *** 2017-12-01
+
+
+mos-metiz.ru *** 2017-12-01modaprestige.ru *** 2017-12-01
+
+
+mos-metiz.ru *** 2017-12-01modaprestige.ru *** 2017-12-01
+
+
+mos-metiz.ru *** 2017-12-01modaprestige.ru *** 2017-12-01
+
+
+mos-metiz.ru *** 2017-12-01modaprestige.ru *** 2017-12-01
+
+
+mos-metiz.ru *** 2017-12-01modaprestige.ru *** 2017-12-01
+
+
+mos-metiz.ru *** 2017-12-01modaprestige.ru *** 2017-12-01
+
+
+mos-metiz.ru *** 2017-12-01modaprestige.ru *** 2017-12-01
+
+
+mos-metiz.ru *** 2017-12-01modaprestige.ru *** 2017-12-01
+
+
+mos-metiz.ru *** 2017-12-01modaprestige.ru *** 2017-12-01
+
+
+mos-metiz.ru *** 2017-12-01modaprestige.ru *** 2017-12-01
+
+
+mos-metiz.ru *** 2017-12-01modaprestige.ru *** 2017-12-01
+
+
+mos-metiz.ru *** 2017-12-01modaprestige.ru *** 2017-12-01
+
+
+mos-metiz.ru *** 2017-12-01modaprestige.ru *** 2017-12-01
+
+
+mos-metiz.ru *** 2017-12-01modaprestige.ru *** 2017-12-01
+
+
+mos-metiz.ru *** 2017-12-01modaprestige.ru *** 2017-12-01
+
+
+mos-metiz.ru *** 2017-12-01modaprestige.ru *** 2017-12-01
+
+
+mos-metiz.ru *** 2017-12-01modaprestige.ru *** 2017-12-01
+
+
+mos-metiz.ru *** 2017-12-01modaprestige.ru *** 2017-12-01
+
+
+mos-metiz.ru *** 2017-12-01modaprestige.ru *** 2017-12-01
+
+
+mos-metiz.ru *** 2017-12-01
+victoriyache-hair.com *** 2017-12-01
+partsleader.ru *** 2017-12-01
+mercury-forge.ru *** 2017-12-01
+pvechera.ru *** 2017-12-31
+fingo.ru *** 2018-01-01
+infinitime.ru *** 2018-01-01
+intermedika.ru *** 2018-02-01
+pnevmo.ru *** 2018-02-01
+volgaresurs.ru *** 2018-03-01
+kontext.ru *** 2018-04-01
+modavi.ru *** 2018-04-01
+maysaku.ru *** 2018-04-01
+stroikomp.ru *** 2018-04-01
+palloncini.ru *** 2018-05-01
+asyst-pro.ru *** 2018-05-01
+emba.ranepa.ru *** 2018-05-01
+shop.meucci.ru *** 2018-06-01
+btlmed.ru *** 2018-06-01
+rusmedimport.com *** 2018-06-01
+vega-volt.ru *** 2018-07-08
+newvay.ru *** 2018-07-01
+sogrevay.ru *** 2018-07-01
+account-group.ru *** 2018-07-01
+vlbb.ru *** 2018-08-01
+gk-pragma.com *** 2018-08-01
+bachata-salsa.ru *** 2018-08-01
+russiatex.ru *** 2018-10-01
+alpinabook.ru *** 2018-10-01
+poklonkaplace.ru *** 2018-10-01
+aero-city.com *** 2018-10-01
+tennisteam.ru *** 2018-11-01
+matras-promtex.ru *** 2018-11-01
+aquastroymshop.ru *** 2018-11-01
+
+
+
+.. _my-reference-label:
+
+Section to cross-reference
+--------------------------
+
+This is the text of the section.
+
